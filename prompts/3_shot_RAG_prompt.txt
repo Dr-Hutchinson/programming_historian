@@ -1,0 +1,44 @@
+Complete the following tasks to establish the relevance between a user query and this document written by Abraham Lincoln. Complete the tasks step by step:
+
+1. Document Relevance: Classify the document as 'Relevant' if it directly addresses or significantly pertains to the query subject. Otherwise, classify as 'Irrelevant'.
+2. Quote Extraction: Identify the part of the Key Quote that is most relevant to the query. If no quote explicitly addresses the query, note 'NaN'."
+3. Contextual Relevance: Provide a detailed explanation of the document's relevance to the query, providing historical context to illustrate the relevance. If the document is irrelevant, answer "NaN".\n"""
+
+Query: How does Liberia factor into Lincoln's speeches
+
+Document ID: Text #: 72
+Key Quote: Such a vessel is needed for the safety of that state against the native African races; and in Liberian hands it would be more effective in arresting the African slave trade than a squadron in our own hands. The possession of the least organized naval force would stimulate a generous ambition in the republic, and the confidence which we should manifest by furnishing it would win forbearance and favor towards the colony from all civilized nations. The proposed overland telegraph between America and Europe, by the way of Behring's Straits and Asiatic Russia, which was sanctioned by Congress at the last session, has been undertaken, under very favorable circumstances, by an association of American citizens, with the cordial good-will and support as well of this government as of those of Great Britain and Russia.
+Source: Fourth Annual Message. December 6, 1864.
+Total Relevance Score: 92%
+
+1. Document Relevance: Relevant
+2. Quote Extraction: "In Liberian hands, [a naval vessel] would be more effective in arresting the African slave trade... The possession of the least organized naval force would stimulate a generous ambition in the republic..."
+3. Contextual Relevance: In his Fourth Annual Message in 1864, Lincoln highlighted the importance of empowering Liberia, a nation founded by freed slaves, to combat the slave trade. By supporting Liberia's naval capabilities, Lincoln aimed to enhance its sovereignty and international standing, aligning with the Union's anti-slavery stance.
+
+Good. Let's try another
+
+Query: How did Lincoln defend the Emancipation Proclamation?
+
+Document ID: Text #: 25
+Key Quote: He did so, and by some judicious modifications of his plan, coupled with laborious efforts with individual members, and his own over-mastering eloquence upon the floor, he finally secured the admission of the State. Brightly, and captivating as it had previously shown, it was now perceived that his great eloquence, was a mere embellishment, or, at most, but a helping hand to his inventive genius, and his devotion to his country in the day of her extreme peril.  After the settlement of the Missouri question, although a portion of the American people have differed with Mr. Clay, and a majority even, appear generally to have been opposed to him on questions of ordinary administration, he seems constantly to have been regarded by all, as the man for a crisis.
+Source:  Eulogy on Henry Clay. July 6, 1852.
+Total Relevance Score: 38%
+
+1. Document Relevance: Irrelevant
+2. Quote Extraction: NaN
+3. Contextual Relevance:  NaN
+
+Query: How did Lincoln justify the Civil War in his speeches?
+
+Good. Let's try another
+
+Document ID: Text #: 79
+Key Quote: With high hope for the future, no prediction in regard to it is ventured.  On the occasion corresponding to this four years ago, all thoughts were anxiously directed to an impending civil-war. All dreaded it---all sought to avert it. While the inaugeral address was being delivered from this place, devoted altogether to saving the Union without war, insurgent agents were in the city seeking to destroy it without war---seeking to dissol[v]e the Union, and divide effects, by negotiation. Both parties deprecated war; but one of them would make war rather than let the nation survive; and the other would accept war rather than let it perish. And the war came.  One eighth of the whole population were colored slaves, not distributed generally over the Union, but localized in the Southern part [2] of it.
+Source: Second Inaugural Address. March 4, 1865.
+Total Relevance Score: 75%
+
+1. Document Relevance: Relevant
+2. Quote Extraction: "Both parties deprecated war; but one of them would make war rather than let the nation survive; and the other would accept war rather than let it perish."
+3. Contextual Relevance:  In his Second Inaugural Address, Lincoln justified the Civil War as an unavoidable conflict to preserve the Union. Despite both sides wishing to avoid war, Lincoln portrayed the conflict as a necessary response to the actions of those who would rather see the nation divided or destroyed than relinquish their claim to slavery. This framing underscores the war's moral and existential dimensions, linking the fight for the Union to the broader cause of human freedom.
+
+Good. Let's try another
