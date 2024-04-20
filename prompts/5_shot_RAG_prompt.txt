@@ -4,18 +4,18 @@ Complete the following tasks to establish the relevance between a user query and
 2. Quote Extraction: Identify the part of the Key Quote that is most relevant to the query. If no quote explicitly addresses the query, note 'NaN'."
 3. Contextual Relevance: Provide a detailed explanation of the document's relevance to the query, providing historical context to illustrate the relevance. If the document is irrelevant, answer "NaN".\n"""
 
-Query: How does Liberia factor into Lincoln's speeches
+Query: Was strategy did Lincoln propose to combat piracy?
 
 Document ID: Text #: 72
-Key Quote: Such a vessel is needed for the safety of that state against the native African races; and in Liberian hands it would be more effective in arresting the African slave trade than a squadron in our own hands. The possession of the least organized naval force would stimulate a generous ambition in the republic, and the confidence which we should manifest by furnishing it would win forbearance and favor towards the colony from all civilized nations. The proposed overland telegraph between America and Europe, by the way of Behring's Straits and Asiatic Russia, which was sanctioned by Congress at the last session, has been undertaken, under very favorable circumstances, by an association of American citizens, with the cordial good-will and support as well of this government as of those of Great Britain and Russia.
-Source: Fourth Annual Message. December 6, 1864.
+Key Quote: By the act of the 5th of August last, Congress authorized the President to instruct the commanders of suitable vessels to defend themselves against, and to capture pirates. This authority has been exercised in a single instance only. For the more effectual protection of our extensive and valuable commerce, in the eastern seas especially, it seems to me that it would also be advisable to authorize the commanders of sailing vessels to re-capture any prizes which pirates might make of United States vessels and their cargoes, and the consular courts, now established by law in eastern countries, to adjudicate the cases, in the event that this should not be objected to by the local authorities.
+Source: First Annual Address. December 3, 1861.
 Total Relevance Score: 92%
 
 1. Document Relevance: Relevant
-2. Quote Extraction: "In Liberian hands, [a naval vessel] would be more effective in arresting the African slave trade... The possession of the least organized naval force would stimulate a generous ambition in the republic..."
-3. Contextual Relevance: In his Fourth Annual Message in 1864, Lincoln highlighted the importance of empowering Liberia, a nation founded by freed slaves, to combat the slave trade. By supporting Liberia's naval capabilities, Lincoln aimed to enhance its sovereignty and international standing, aligning with the Union's anti-slavery stance.
+2. Quote Extraction: By the act of the 5th of August last, Congress authorized the President to instruct the commanders of suitable vessels to defend themselves against, and to capture pirates.
+3. Contextual Relevance: In his First annual Address, This quote from Lincoln's address during a time when U.S. maritime trade was increasingly targeted by pirates reflects the government's strategic efforts to protect its commercial interests abroad. The authorization given to ship commanders by the act of August 5th, 1861, was part of broader U.S. efforts to enhance maritime security and uphold the safety of American commerce in regions where local governance was insufficient to combat piracy.
 
-Good. Let's try another
+Good. Let's try another.
 
 Query: How did Lincoln defend the Emancipation Proclamation?
 
@@ -30,7 +30,7 @@ Total Relevance Score: 38%
 
 Query: How did Lincoln justify the Civil War in his speeches?
 
-Good. Let's try another
+Good. Let's try another.
 
 Document ID: Text #: 79
 Key Quote: With high hope for the future, no prediction in regard to it is ventured.  On the occasion corresponding to this four years ago, all thoughts were anxiously directed to an impending civil-war. All dreaded it---all sought to avert it. While the inaugeral address was being delivered from this place, devoted altogether to saving the Union without war, insurgent agents were in the city seeking to destroy it without war---seeking to dissol[v]e the Union, and divide effects, by negotiation. Both parties deprecated war; but one of them would make war rather than let the nation survive; and the other would accept war rather than let it perish. And the war came.  One eighth of the whole population were colored slaves, not distributed generally over the Union, but localized in the Southern part [2] of it.
@@ -41,9 +41,9 @@ Total Relevance Score: 75%
 2. Quote Extraction: "Both parties deprecated war; but one of them would make war rather than let the nation survive; and the other would accept war rather than let it perish."
 3. Contextual Relevance:  In his Second Inaugural Address, Lincoln justified the Civil War as an unavoidable conflict to preserve the Union. Despite both sides wishing to avoid war, Lincoln portrayed the conflict as a necessary response to the actions of those who would rather see the nation divided or destroyed than relinquish their claim to slavery. This framing underscores the war's moral and existential dimensions, linking the fight for the Union to the broader cause of human freedom.
 
-Good. Let's try another
+Good. Let's try another.
 
-Query: How did the Cherokee fare during the Civil War?
+Query: How did Irish-Americans fare during the Civil War?
 
 Document ID: Text #: 74
 Key Quote: There were disbursed, for the civil service, $27,505,599,46; for pensions and Indians, $7,517,930,97; for the War Department $690,791,842,97; for the Navy Department $85,733,292,77; for interest of the public debt $53,685,421,69;---making an aggregate of $865,234,087.86, and leaving a balance in the treasury of $18,842,558.71, as before stated. For the actual receipts and disbursements for the first quarter, and the estimated receipts and disbursements for the three remaining quarters of the current fiscal year, and the general operations of the treasury in detail, I refer you to the report of the Secretary of the Treasury.
@@ -54,7 +54,7 @@ Total Relevance Score: 82%
 2. Quote Extraction: NaN
 3. Contextual Relevance:  NaN
 
-Good. Let's try another
+Good. Let's try another.
 
 Query: How did Lincoln assess the strategic importance of railroalds?
 
@@ -65,6 +65,6 @@ Total Relevance Score: 33%
 
 1. Document Relevance: Irrelevant
 2. Quote Extraction: NaN
-3. Contextual Relevance:  NaN"""
+3. Contextual Relevance:  NaN
 
-Good. Let's try another
+Good. Let's try another.
