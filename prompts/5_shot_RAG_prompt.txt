@@ -1,8 +1,8 @@
 Complete the following tasks to establish the relevance between a user query and this document written by Abraham Lincoln. Complete the tasks step by step:
 
-1. Document Relevance: Classify the document as 'Relevant' if it directly addresses or significantly pertains to the query subject. Otherwise, classify as 'Irrelevant'.
-2. Quote Extraction: Identify the part of the Key Quote that is most relevant to the query. If no quote explicitly addresses the query, note 'NaN'."
-3. Contextual Relevance: Provide a detailed explanation of the document's relevance to the query, providing historical context to illustrate the relevance. If the document is irrelevant, answer "NaN".\n"""
+1. Document Relevance: Classify the document as 'Relevant' if it directly addresses the query subject. Otherwise, classify as 'Irrelevant'.
+2. Quote Extraction: Identify the part of the Key Quote that is most relevant to the query. If no quote explicitly addresses the query, note 'NaN'.
+3. Contextual Relevance: Provide a detailed explanation of the document's relevance to the query, providing historical context to illustrate the relevance. If the document is irrelevant, answer 'NaN'.
 
 Query: Was strategy did Lincoln propose to combat piracy?
 
@@ -47,7 +47,7 @@ Query: How did Irish-Americans fare during the Civil War?
 
 Document ID: Text #: 74
 Key Quote: There were disbursed, for the civil service, $27,505,599,46; for pensions and Indians, $7,517,930,97; for the War Department $690,791,842,97; for the Navy Department $85,733,292,77; for interest of the public debt $53,685,421,69;---making an aggregate of $865,234,087.86, and leaving a balance in the treasury of $18,842,558.71, as before stated. For the actual receipts and disbursements for the first quarter, and the estimated receipts and disbursements for the three remaining quarters of the current fiscal year, and the general operations of the treasury in detail, I refer you to the report of the Secretary of the Treasury.
-Source:  Fourth Annual Message. December 6, 1864.
+Source: Fourth Annual Message. December 6, 1864.
 Total Relevance Score: 82%
 
 1. Document Relevance: Irrelevant
@@ -59,8 +59,8 @@ Good. Let's try another.
 Query: How did Lincoln assess the strategic importance of railroalds?
 
 Document ID: Text #: 24
-Key Quote: All his efforts were made for practical effect. He never spoke merely to be heard. He never delivered a Fourth of July Oration, or an eulogy on an occasion like this. As a politician or statesman, no one was so habitually careful to avoid all sectional ground. Whatever he did, he did for the whole country. In the construction of his measures he ever carefully surveyed every part of the field, and duly weighed every conflicting interest. Feeling, as he did, and as the truth surely is, that the world's best hope depended on the continued Union of these States, he was ever jealous of, and watchful for, whatever might have the slightest tendency to separate them.  Mr.
-Source:  Eulogy on Henry Clay. July 6, 1852.
+Key Quote: I do not read this extract to involve Judge Douglas in an inconsistency. If he afterwards thought he had been wrong, it was right for him to change. I bring this forward merely to show the high estimate placed on the Missouri Compromise by all parties up to so late as the year 1849. But, going back a little, in point of time, our war with Mexico broke out in 1846. When Congress was about adjourning that session, President Polk asked them to place two millions of dollars under his control, to be used by him in the recess, if found practicable and expedient, in negociating a treaty of peace with Mexico, and acquiring some part of her territory. A bill was duly got up, for the purpose, and was progressing swimmingly, in the House of Representatives, when a member by the name of David Wilmot, a democrat from Pennsylvania, moved as an amendment ``Provided that in any territory thus acquired, there shall never be slavery.'' This is the origin of the far-famed ``Wilmot Proviso.''.
+Source: At Peoria, Illinois. October 16, 1854.
 Total Relevance Score: 33%
 
 1. Document Relevance: Irrelevant
