@@ -3,14 +3,15 @@
 
 ## Overview
 
-This repository contains the dataset and statistical analysis results for the study on the agreement between GPT-4 and Mistral.
+This repository contains the dataset and statistical analysis results for the study on the agreement between GPT-4 and Mistral on a relevance determination task in a retrieval augmented generation (RAG) pipeline.
 
 ## Contents
 
-- `complete_data_unscored.csv`: The complete dataset used for analysis.
+- `complete_data_unscored.csv`: The original dataset used for analysis.
+- `complete_data_scored.csv`: The dataset scored by GPT-4 for analysis of a relevance determination task by Mistral.
 - `statistical_results.csv`: Statistical summary of the analysis.
 - `README.md`: This file.
-- 'Evaluation_Notebook.ipynb': Juypter Notebook containing code used to run this analysis.
+- `Evaluation_Notebook.ipynb`: Juypter Notebook containing code used to run this analysis.
 
 ## Data Description
 
@@ -39,7 +40,7 @@ To load the dataset and statistical results, use the following code:
 import pandas as pd
 
 # Load the dataset
-data = pd.read_csv('complete_data.csv')
+data = pd.read_csv('complete_data_unscored.csv')
 
 # Load the statistical results
 results = pd.read_csv('statistical_results.csv')
