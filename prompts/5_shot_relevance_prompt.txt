@@ -28,9 +28,9 @@ Total Relevance Score: 38%
 2. Quote Extraction: NaN
 3. Contextual Relevance:  NaN
 
-Query: How did Lincoln justify the Civil War in his speeches?
-
 Good. Let's try another.
+
+Query: How did Lincoln justify the Civil War in his speeches?
 
 Document ID: Text #: 79
 Key Quote: With high hope for the future, no prediction in regard to it is ventured.  On the occasion corresponding to this four years ago, all thoughts were anxiously directed to an impending civil-war. All dreaded it---all sought to avert it. While the inaugeral address was being delivered from this place, devoted altogether to saving the Union without war, insurgent agents were in the city seeking to destroy it without war---seeking to dissol[v]e the Union, and divide effects, by negotiation. Both parties deprecated war; but one of them would make war rather than let the nation survive; and the other would accept war rather than let it perish. And the war came.  One eighth of the whole population were colored slaves, not distributed generally over the Union, but localized in the Southern part [2] of it.
