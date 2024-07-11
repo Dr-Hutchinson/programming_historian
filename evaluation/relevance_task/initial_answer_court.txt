@@ -1,0 +1,11 @@
+During the American Civil War, President Abraham Lincoln's relationship with the United States Supreme Court was complex and at times contentious. The Constitution grants the President the power to appoint federal judges, including justices of the Supreme Court, with the advice and consent of the Senate. However, due to political divisions in Congress, several vacancies on the Court remained unfilled for extended periods during Lincoln's presidency.
+
+One of the most significant cases that came before the Supreme Court during the Civil War was Dred Scott v. Sandford (1857). In this decision, the Court ruled that African Americans, whether free or enslaved, were not considered citizens under the law and therefore had no standing to sue in federal court. This ruling directly contradicted the views of many abolitionists, including Lincoln, who believed that slavery was unjust and should be abolished.
+
+When the Civil War began in 1861, Lincoln issued a proclamation suspending the writ of habeas corpus in certain areas to deal with insurrectionary activities. The suspension of habeas corpus is an extraordinary measure that allows individuals to be detained without trial. Some argued that only Congress has the authority to suspend the writ, while others maintained that the President possesses such power during wartime.
+
+In Ex parte Milligan (1866), the Supreme Court ruled that civilian courts still functioned during martial law, and military tribunals could only try those violating the laws and orders not suspended by the civil authorities. This decision effectively limited the scope of presidential power during wartime.
+
+Lincoln also faced criticism from the judiciary regarding his Emancipation Proclamation, which declared slaves in Confederate territory to be free as of January 1, 1863. Several lower federal courts challenged the constitutionality of the Emancipation Proclamation, but these decisions were ultimately overruled when the war ended and the Thirteenth Amendment was ratified, thereby abolishing slavery throughout the United States.
+
+Despite the tensions between Lincoln and the Supreme Court during the Civil War, their actions ultimately contributed to the preservation of the Union and the eventual end of slavery in America.
