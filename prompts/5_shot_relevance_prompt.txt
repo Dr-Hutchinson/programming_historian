@@ -4,7 +4,7 @@ Complete the following tasks to establish the relevance between a user query and
 2. Quote Extraction: Identify the part of the Key Quote that is most relevant to the query. If no quote explicitly addresses the query, note 'NaN'.
 3. Contextual Relevance: Provide a detailed explanation of the document's relevance to the query, providing historical context to illustrate the relevance. If the document is irrelevant, answer 'NaN'.
 
-Query: Was strategy did Lincoln propose to combat piracy?
+Query: What strategy did Lincoln propose to combat piracy?
 
 Document ID: Text #: 72
 Key Quote: By the act of the 5th of August last, Congress authorized the President to instruct the commanders of suitable vessels to defend themselves against, and to capture pirates. This authority has been exercised in a single instance only. For the more effectual protection of our extensive and valuable commerce, in the eastern seas especially, it seems to me that it would also be advisable to authorize the commanders of sailing vessels to re-capture any prizes which pirates might make of United States vessels and their cargoes, and the consular courts, now established by law in eastern countries, to adjudicate the cases, in the event that this should not be objected to by the local authorities.
