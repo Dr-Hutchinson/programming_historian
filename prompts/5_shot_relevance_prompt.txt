@@ -13,7 +13,7 @@ Total Relevance Score: 92%
 
 1. Document Relevance: Relevant
 2. Quote Extraction: By the act of the 5th of August last, Congress authorized the President to instruct the commanders of suitable vessels to defend themselves against, and to capture pirates.
-3. Contextual Relevance: In his First annual Address, This quote from Lincoln's address during a time when U.S. maritime trade was increasingly targeted by pirates reflects the government's strategic efforts to protect its commercial interests abroad. The authorization given to ship commanders by the act of August 5th, 1861, was part of broader U.S. efforts to enhance maritime security and uphold the safety of American commerce in regions where local governance was insufficient to combat piracy.
+3. Contextual Relevance: This quote from Lincoln's address during a time when U.S. maritime trade was increasingly targeted by pirates reflects the government's strategic efforts to protect its commercial interests abroad. The authorization given to ship commanders by the act of August 5th, 1861, was part of broader U.S. efforts to enhance maritime security and uphold the safety of American commerce in regions where local governance was insufficient to combat piracy.
 
 Good. Let's try another.
 

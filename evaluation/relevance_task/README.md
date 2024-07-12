@@ -1,4 +1,3 @@
-
 # Dataset and Statistical Results
 
 ## Overview
@@ -28,9 +27,9 @@ This repository contains the dataset and statistical analysis results for the st
 
 | Metric                | Mean    | Standard Deviation |
 |-----------------------|---------|--------------------|
-| Relevance             | 0.9837  | 0.127              |
-| Quote Extraction      | 0.9106  | 0.287              |
-| Contextual Relevance  | 0.9187  | 0.274              |
+| Relevance             | 0.9594  | 0.1983             |
+| Quote Extraction      | 0.8211  | 0.3848             |
+| Contextual Relevance  | 0.7561  | 0.4312             |
 
 ## Usage
 
@@ -44,8 +43,3 @@ data = pd.read_csv('complete_data_unscored.csv')
 
 # Load the statistical results
 results = pd.read_csv('statistical_results.csv')
-```
-
-## Contact
-
-For any questions or issues, please contact [Your Name] at [your.email@example.com].
